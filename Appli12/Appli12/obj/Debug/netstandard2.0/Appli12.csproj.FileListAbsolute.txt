@@ -1,0 +1,13 @@
+C:\Users\Nassim\source\repos\Appli12\Appli12\Appli12\bin\Debug\netstandard2.0\Appli12.deps.json
+C:\Users\Nassim\source\repos\Appli12\Appli12\Appli12\bin\Debug\netstandard2.0\Appli12.dll
+C:\Users\Nassim\source\repos\Appli12\Appli12\Appli12\bin\Debug\netstandard2.0\Appli12.pdb
+C:\Users\Nassim\source\repos\Appli12\Appli12\Appli12\obj\Debug\netstandard2.0\Appli12.csprojAssemblyReference.cache
+C:\Users\Nassim\source\repos\Appli12\Appli12\Appli12\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nassim\source\repos\Appli12\Appli12\Appli12\obj\Debug\netstandard2.0\Appli12.csproj.CoreCompileInputs.cache
+C:\Users\Nassim\source\repos\Appli12\Appli12\Appli12\obj\Debug\netstandard2.0\Appli12.AssemblyInfoInputs.cache
+C:\Users\Nassim\source\repos\Appli12\Appli12\Appli12\obj\Debug\netstandard2.0\Appli12.AssemblyInfo.cs
+C:\Users\Nassim\source\repos\Appli12\Appli12\Appli12\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Nassim\source\repos\Appli12\Appli12\Appli12\obj\Debug\netstandard2.0\Appli12.dll
+C:\Users\Nassim\source\repos\Appli12\Appli12\Appli12\obj\Debug\netstandard2.0\Appli12.pdb
+C:\Users\Nassim\source\repos\Appli12\Appli12\Appli12\obj\Debug\netstandard2.0\NoteEntryPagexaml.xaml.g.cs
+C:\Users\Nassim\source\repos\Appli12\Appli12\Appli12\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
